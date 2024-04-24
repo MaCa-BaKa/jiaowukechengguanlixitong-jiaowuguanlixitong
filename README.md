@@ -20,4 +20,4 @@ Springboot Vue课程管理系统 教务管理系统  前后端分离项目
 ![教务5](https://github.com/MaCa-BaKa/jiaowukechengguanlixitong-jiaowuguanlixitong/assets/102128690/88f4530d-9b34-4532-9cec-b852f38cc20d)
 
 
-需要本系统联系vx: MaKaBaca0
+**需要本系统联系vx: MaKaBaca0**
